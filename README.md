@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hey! I'm not a weirdo! 
 
-<!--
-**Datavorous/Datavorous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**I eat data lol**
 
 - 🔭 I’m currently working on Chlorophyll (a versatile discord bot)
 - 🌱 I’m currently learning C# (for Unity) and working with Discord.py
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: digestingdata1@gmail.com
 - 😄 Pronouns: _He/Him_
 - ⚡ Fun fact: My Tesla Coil could generate 18,000 Volts ! (Made with recycled stuffs)
--->
+
