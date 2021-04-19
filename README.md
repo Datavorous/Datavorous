@@ -12,4 +12,3 @@
 
 [![Datavorous' GitHub stats](https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=dark)](https://github.com/Datavorous)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Datavorous&v=2&layout=compact&theme=dark)](https://wakatime.com/@Datavorous)
