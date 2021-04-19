@@ -10,6 +10,6 @@
 - 😄 Pronouns: _He/Him_
 - ⚡ Fun fact: My Tesla Coil could generate 18,000 Volts ! (Made with recycled stuffs)
 
-[![Datavorous' GitHub stats](https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=dark)](https://github.com/Datavorous)
+[![Datavorous' GitHub stats](https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=chartreuse-dark)](https://github.com/Datavorous)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=dark)](https://github.com/Datavorous)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=chartreuse-dark)](https://github.com/Datavorous)
