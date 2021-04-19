@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=chartreuse-dark)](https://github.com/Datavorous)
 
-**Languages and Softwares that I Know/Use**
+**Languages and Softwares that I Know and Use respectively**
 
 <img align="left" alt="Java" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Python" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
