@@ -26,4 +26,4 @@
 <img align="left" alt="HTMl" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="BlueJ" width="80px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/bluej-icon.png" />
 <img align="left" alt="PyCharm" width="80px" src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png" />
-<img align="left" alt="VB" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgirlEv0YMrXCbXm54uaIe-MzzPG1VpWWgow&usqp=CAU" />
+<img align="left" alt="VB" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnwWc703OwBahYF04F0ST3FpGUwXauUO50MQ&usqp=CAU" />
