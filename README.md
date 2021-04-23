@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help to make a website
 - 💬 Ask me about Java, Python and C# (and yeah how to crack stupid jokes)
 - 📫 How to reach me: digestingdata1@gmail.com
-- 👻 Planning to make a Python module so that people can make discord bots in a more efficient and easier manner
+- 👻 Planning to make a Python module so that people can make discord bots in a more efficiently in less time
 
 [![Datavorous' GitHub stats](https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=chartreuse-dark)](https://github.com/Datavorous)
 
