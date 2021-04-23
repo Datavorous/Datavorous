@@ -7,8 +7,7 @@
 - 🤔 I’m looking for help to make a website
 - 💬 Ask me about Java, Python and C# (and yeah how to crack stupid jokes)
 - 📫 How to reach me: digestingdata1@gmail.com
-- 😄 Pronouns: _He/Him_
-- ⚡ Fun fact: My Tesla Coil could generate 18,000 Volts ! (Made with recycled stuffs)
+- 👻 Planning to make a Python module for making discord bots on a more efficient and easier way
 
 [![Datavorous' GitHub stats](https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=chartreuse-dark)](https://github.com/Datavorous)
 
