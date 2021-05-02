@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help to make a website
 - 💬 Ask me about Java, Python and C# (and yeah how to crack stupid jokes)
 - 📫 How to reach me: digestingdata1@gmail.com
-- 👻 I have made some python modules make sure to check them out!
+- 👻 I have made some python modules make sure to [check them out!](https://pypi.org/user/Datavorous/)
 
 [![Datavorous' GitHub stats](https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=chartreuse-dark)](https://github.com/Datavorous)
 
