@@ -2,12 +2,12 @@
 
 **I eat data lol**
 
-- 🔭 I’m currently working on Chlorophyll (a versatile discord bot)
-- 🌱 I’m currently learning C# (for Unity) and working with Discord.py
+- 🔭 I’m currently working on my [portfolio](https://datavorous.github.io/)
+- 🌱 I’m currently learning Web Development,C# (for Unity) and working with Discord.py
 - 🤔 I’m looking for help to make a website
 - 💬 Ask me about Java, Python and C# (and yeah how to crack stupid jokes)
 - 📫 How to reach me: digestingdata1@gmail.com
-- 👻 Planning to make a Python module so that people can make discord bots more efficiently in less time
+- 👻 I have made some python modules make sure to check them out!
 
 [![Datavorous' GitHub stats](https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=chartreuse-dark)](https://github.com/Datavorous)
 
