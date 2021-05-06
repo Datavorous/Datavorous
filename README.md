@@ -1,4 +1,4 @@
-### Hey! I'm not a weirdo!<img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="10px">
+### Hey! I'm not a weirdo!<img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="100px">
 
 **I eat data lol**
 
