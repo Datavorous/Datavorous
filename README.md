@@ -1,10 +1,10 @@
 ### <img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="30px"> Hey! I'm not a weirdo!<img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="30px">
 
-**I eat data lol**
+**High Schooler who eats data, lol**
 
 - 🔭 I’m currently working on a 3D Parkour Game 
 - 🌱 I’m currently learning Game Development in Godot
-- 🤔 I’m looking for help to make videos for my youtube channel!
+- 🤔 I want help for making YouTube Videos!
 - 💬 Ask me about GameDev and Coding
 - 📫 How to reach me: digestingdata1@gmail.com
 - 👻 I have made some python modules make sure to [check them out!](https://pypi.org/user/Datavorous/)
