@@ -13,3 +13,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=chartreuse-dark)](https://github.com/Datavorous)
 
+<br>
+<b>Join my [Discord Server]()
+<br>[YouTube]()
