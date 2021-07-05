@@ -9,9 +9,9 @@
 - 📫 How to reach me: digestingdata1@gmail.com
 - 👻 I have made some python modules make sure to [check them out!](https://pypi.org/user/Datavorous/)
 
-[![Datavorous' GitHub stats](https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=chartreuse-dark)](https://github.com/Datavorous)
+[![Datavorous' GitHub stats](https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=monokai)](https://github.com/Datavorous)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=chartreuse-dark)](https://github.com/Datavorous)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=monokai)](https://github.com/Datavorous)
 
 <br>Join my [Discord Server](https://discord.gg/pAHyHdtSq6)
 <br>Visit my [YouTube Channel](http://YouTube.com/c/Datavorous)
