@@ -14,4 +14,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=chartreuse-dark)](https://github.com/Datavorous)
 
 <br>Join my [Discord Server](https://discord.gg/pAHyHdtSq6)
-<br>Visit my [YouTube](http://YouTube.com/c/Datavorous)Channel
+<br>Visit my [YouTube Channel](http://YouTube.com/c/Datavorous)
