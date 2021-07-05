@@ -2,10 +2,10 @@
 
 **I eat data lol**
 
-- 🔭 I’m currently working on my [portfolio](https://datavorous.github.io/)
-- 🌱 I’m currently learning Web Development,C# (for Unity) and working with Discord.py
-- 🤔 I’m looking for help to make a website
-- 💬 Ask me about Java, Python and C# (and yeah how to crack stupid jokes)
+- 🔭 I’m currently working on a 3D Parkour Game 
+- 🌱 I’m currently learning Game Development in Godot
+- 🤔 I’m looking for help to make videos for my youtube channel!
+- 💬 Ask me about GameDev and Coding
 - 📫 How to reach me: digestingdata1@gmail.com
 - 👻 I have made some python modules make sure to [check them out!](https://pypi.org/user/Datavorous/)
 
