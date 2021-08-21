@@ -2,7 +2,7 @@
 
 **High Schooler who eats data, lol**
 
-- 🔭 I’m currently working on a 2D fast-paced action game :)
+- 🔭 I’m currently working on a 2D Physics Engine :)
 - 🌱 I’m currently learning Game Development in Godot
 - 🤔 I want help for making YouTube Videos!
 - 💬 Ask me about GameDev and Coding
