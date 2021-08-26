@@ -1,10 +1,10 @@
-### <img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="30px"> Hello!<img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="30px">
+### <center><img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="30px"> Hello!<img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="30px">
 
 Nothing special here.
-
+<br>
 <b>
-• Currently working on multiple projects
-• Learning C++
+• Currently working on multiple projects 🧠<br>
+• Learning C++ 
 </b>
 
 [![Datavorous' GitHub stats](https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=monokai)](https://github.com/Datavorous)
