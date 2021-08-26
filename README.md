@@ -1,4 +1,4 @@
-### <center><img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="30px"> Hello!<img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="30px">
+### <centre><img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="30px"> Hello!<img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="30px">
 
 Nothing special here.
 <br>
