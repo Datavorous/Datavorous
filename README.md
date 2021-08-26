@@ -1,11 +1,12 @@
-### <centre><img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="30px"> Hello!<img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="30px">
-
-Nothing special here.
+### <img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="30px"> Hello There!<img src="https://emoji.gg/assets/emoji/6548-red-flames.gif" width="30px">
 <br>
-<b>
-• Currently working on multiple projects 🧠<br>
-• Learning C++ 
-</b>
+
+• I'm Currently working on multiple projects 🧠<br>
+• and Learning C++<br>
+• Got plans for making some game :) <br>
+• and maybe a game framework for Java or Python?(or Both?)<br>
+• Let's see...
+
 
 [![Datavorous' GitHub stats](https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=monokai)](https://github.com/Datavorous)
 
