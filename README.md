@@ -7,9 +7,10 @@
 • and maybe a game framework for Java or Python?(or Both?)<br>
 • Let's see...
 
-
+<details>
+  <summary>:zap: Most Used Languages</summary>
 [![Datavorous' GitHub stats](https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=monokai)](https://github.com/Datavorous)
-
+</details>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=monokai)](https://github.com/Datavorous)
 
 <br>Join my [Discord Server](https://discord.gg/pAHyHdtSq6)
