@@ -9,7 +9,7 @@
 
 <details>
   <summary>:zap: <b>Most Used Languages</b></summary><p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=monokai">
+<img width="5" height="5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=monokai">
 </details>
 <br>
 <b>Socials
