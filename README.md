@@ -11,5 +11,12 @@
   <summary>:zap: <b>Most Used Languages</b></summary><p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=monokai">
 </details>
-<br>Join my [Discord Server](https://discord.gg/pAHyHdtSq6)
-<br>Visit my [YouTube Channel](http://YouTube.com/c/Datavorous)
+<br>
+## Contact
+<a href="https://discord.gg/pAHyHdtSq6">
+<img src="">
+</a>
+
+<a href="http://YouTube.com/c/Datavorous">
+<img src="">
+</a>
