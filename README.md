@@ -9,7 +9,7 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary><p>
-<a href="https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=monokai)](https://github.com/Datavorous">Stats</a></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=monokai)](https://github.com/Datavorous"></p>
 </details>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=monokai)](https://github.com/Datavorous)
 
