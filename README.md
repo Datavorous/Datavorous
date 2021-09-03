@@ -8,7 +8,7 @@
 • Let's see...
 
 <details>
-  <summary>:zap: **Most Used Languages**</summary><p>
+  <summary>:zap: <b>Most Used Languages</b></summary><p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=monokai">
 </details>
 <br>Join my [Discord Server](https://discord.gg/pAHyHdtSq6)
