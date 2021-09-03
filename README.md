@@ -8,8 +8,8 @@
 • Let's see...
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
-[![Datavorous' GitHub stats](https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=monokai)](https://github.com/Datavorous)
+  <summary>:zap: Most Used Languages</summary><p>
+<a href="https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=monokai)](https://github.com/Datavorous">Stats</a></p>
 </details>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=monokai)](https://github.com/Datavorous)
 
