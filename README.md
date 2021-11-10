@@ -17,5 +17,5 @@
 <br>
 
 # Stats
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&langs_count=20&theme=onedark)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&langs_count=20&theme=github_dark)
 
