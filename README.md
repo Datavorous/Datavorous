@@ -12,7 +12,6 @@
 <a href="https://discord.gg/https://discord.gg/7cckz628YD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/7cckz628YD" height="30" width="40" /></a>
 </p>
 <br>
-
 # Stats
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&langs_count=20&theme=github_dark)
 
