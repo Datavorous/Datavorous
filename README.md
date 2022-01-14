@@ -1,4 +1,4 @@
-#### A Great Guy. No doubt
+### A Great Guy. No doubt
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/datavorous1" target="twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="datavorous1" height="30" width="40" /></a>
