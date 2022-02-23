@@ -1,4 +1,4 @@
-### A Great Guy. No doubt
+### A Great Guy. No doubt.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Datavorous&layout=compact&card_width=443&show_icons=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&card_width=443&show_icons=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/Datavorous)
 <h3 align="left">Socials:</h3>
