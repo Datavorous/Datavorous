@@ -1,4 +1,5 @@
 ### SbCharjee
+> not a <img src="https://latex.codecogs.com/svg.image?{\color{White}&space;\frac{d^3x}{dt^3}}"> btw
 ```yaml
 • Status: Alive
 • Studying: at High School
