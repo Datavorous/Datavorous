@@ -3,8 +3,6 @@
 ```yaml
 • Status: Alive
 • Studying: at High School
-• Learning: Science/Maths
-• Trying: to be a Polymath
 • Uses: Python/C/C++/Golang
 • Email: digestingdata1@gmail.com
 
